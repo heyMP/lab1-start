@@ -1,5 +1,7 @@
 # Astro 528 Lab 1
 
+[Open in Container 🐳](http://cod.heymp.com/?image=psuastro528/notebook&port=8888&host=http://cod.heymp.com&repo=https://github.com/heyMP/lab1-start.git&redirect)
+
 ## Exercise 1
 #### Goal:  Learn the basics of core development tools
 For this first exercise, there will be very little coding, because we'll focus on getting used to using git, GitHub, the ICS-ACI Jupyter notebook server (or JuliaBox if you prefer), Jupyter notebooks, Julia, a Julia module (Test) and Travis-CI.com.
